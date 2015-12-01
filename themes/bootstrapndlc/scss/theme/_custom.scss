@@ -1,3 +1,7 @@
+/*Changes to form*/
+.form-field .col-sm-10 textarea.form-control {
+  margin-top: 20px;
+}
 /* Constrain the width */
 .container {
   width: auto;
@@ -79,7 +83,7 @@ _________________________________________________ */
   background-color: #f9f9f9;
 }
 table.table tr th {
-  background-color: #3284BF !important; color:#fff;
+  background-color: #000 !important; color:#fff;
 }
 table.table
 {
@@ -180,14 +184,16 @@ __________________________*/
 span.herotext {
   /*bottom: 610px;*/
   font-family: sans-serif;
-  font-size: 80%;
+  font-size: 130%;
   color: #fff;
   padding: 5px 20px;
   width: 50%;
   line-height: 133%;
   background: rgb(0, 0, 0);
-  background: rgba(0, 0, 0, 0.7);
-  float: right; }
+  background: rgba(0, 0, 0, 0.5);
+  float: right;
+  padding-top:80px;
+}
 
 span.herotext a {
   color: #B9B713;
@@ -224,30 +230,39 @@ span.herotext a {
 }
 .fill{width:100%;height:450px;background-position:center;background-size:cover;
 }
-
-/* Large desktop */
-@media (min-width: 1240px) {
-  span.herotext {
-    font-size: 100%;
-    padding: 80px 30px 30px 30px;
-  }
+/*form styles
+_______________________*/
+html.js.csstransforms3d body {
+  font-family: PT Sans, sans-serif;
 }
+/* Large desktop */
+
 @media (min-width: 1024px) and (max-width: 1180px) {
   .hero-unit {
-    height:250px;
+    height: 250px;
   }
-  .fill{
-    height:240px;
+  .fill {
+    height: 240px;
+  }
+}
+@media (max-width: 1180px){
+    span.herotext {
+      font-size: 100%;
+      padding: 10px 10px 10px 10px;
   }
 }
 
 /* Portrait tablet to landscape and desktop */
 @media (min-width: 768px) and (max-width: 1024px) {
   .hero-unit {
-    height:300px;
+    height: 300px;
   }
-  .fill{
-    height:200px;
+  .fill {
+    height: 200px;
+  }
+  span.herotext {
+    font-size: 85%;
+    padding-top:10px;
   }
 }
 /* Landscape phone to portrait tablet */
@@ -257,6 +272,9 @@ span.herotext a {
   }
   .fill{
     height:200px;
+  }
+  span.herotext {
+    font-size: 70%;
   }
 }
 
@@ -272,4 +290,8 @@ span.herotext a {
     font-size: 40%;
     padding: 10px 10px;
     line-height: 133%;
-    background: transparent; } }
+  }
+  .form-field .col-sm-10 textarea.form-control {
+    margin-top: 0;
+  }
+}
