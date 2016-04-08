@@ -719,8 +719,7 @@ html.js.csstransforms3d body {
   .ribbon {
     margin-left: 10px;
     margin: auto 0 20px;
-    height: auto;
-    width: 100%; }
+    height: auto; }
 
   .circular-program, .circular, .circular-registration, .circular-venue, .circular-about, .circular-schedule, .circular-sess {
     display: none; }
