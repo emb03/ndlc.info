@@ -61,8 +61,7 @@
   font-size: 14px;
   margin-left: -10px;
 }
-
-.ribbon li:first-of-type {
+.ribbon ul > li:nth-last-of-type(-n+2) {
   display: none;
 }
 
@@ -780,7 +779,10 @@ and (orientation : landscape) {
   .col-md-9 h3 {
     display: none;
   }
-
+  body.posters .col-md-9 th:before {
+    content: "Poster Sessions";
+    color: #fff;
+  }
   body.program .col-md-9 th:before {
     content: "All Session Tracks";
     color: #fff;
@@ -822,14 +824,16 @@ and (orientation : landscape) {
   body.collections-and-access .col-md-9 td:nth-of-type(1):before,
   body.programming-outreach-advocacy .col-md-9 td:nth-of-type(1):before,
   body.personnel-management-organization .col-md-9 td:nth-of-type(1):before,
-  body.challenging-topics .col-md-9 td:nth-of-type(1):before {
+  body.challenging-topics .col-md-9 td:nth-of-type(1):before,
+  body.posters .col-md-9 td:nth-of-type(1):before {
     content: "Title";
   }
 
   body.collections-and-access .col-md-9 td:nth-of-type(2):before,
   body.programming-outreach-advocacy .col-md-9 td:nth-of-type(2):before,
   body.personnel-management-organization .col-md-9 td:nth-of-type(2):before,
-  body.challenging-topics .col-md-9 td:nth-of-type(2):before {
+  body.challenging-topics .col-md-9 td:nth-of-type(2):before,
+  body.posters .col-md-9 td:nth-of-type(2):before {
     content: "Presenter(s)";
   }
 
@@ -838,6 +842,9 @@ and (orientation : landscape) {
   body.personnel-management-organization .col-md-9 td:nth-of-type(3):before,
   body.challenging-topics .col-md-9 td:nth-of-type(3):before {
     content: "Format";
+  }
+  body.posters .col-md-9 td:nth-of-type(3):before {
+    content: "Track";
   }
 }
 /*

@@ -5,6 +5,8 @@ published: true
 onpage_menu: true
 template: sessions-track
 content:
-  items:
+  items:    
+    '@taxonomy.category': session
     '@taxonomy.track': Collections and Access
+    
 ---

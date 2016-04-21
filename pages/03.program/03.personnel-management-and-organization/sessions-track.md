@@ -6,5 +6,6 @@ onpage_menu: true
 template: sessions-track
 content:
   items:
+    '@taxonomy.category': session
     '@taxonomy.track': Personnel, Management, and Organization
 ---
