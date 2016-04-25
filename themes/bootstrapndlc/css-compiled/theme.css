@@ -261,7 +261,7 @@ ol.breadcrumb {
 body.fixed-nav {
   padding-top: 50px; }
 
-/*top-level menu*/
+/*top-level menu is this*/
 .dropdown-menu {
   background-color: transparent; }
 
@@ -272,7 +272,7 @@ body.fixed-nav {
 .ribbon {
   color: #fff;
   font-family: "Helvetica neue",sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   height: 392px;
   margin: -20px 0 0 -163px;
   overflow: hidden;
@@ -312,7 +312,7 @@ body.fixed-nav {
   line-height: 3; }
 
 .ribbon ul.list-inline li a.sub-head-posters {
-  font-size: 14px;
+  font-size: 16px;
   margin-left: -10px; }
 
 .ribbon ul > li:nth-last-of-type(-n+2) {

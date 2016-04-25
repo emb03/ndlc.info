@@ -10,8 +10,7 @@ metadata:
 # Register Now!
 _(Links go to UCLA Central Ticket Office secure site)_
 
-### <a href="https://oss.ticketmaster.com/aps/uclacto/EN/buy/details/m162830" target="_blank">Early registration March 15-April 30: $175</a>
-   _Regular registration after May 1: $225_
+### <a href="https://oss.ticketmaster.com/aps/uclacto/EN/buy/details/m162830" target="_blank">Registration: $225</a>
 ### <a href="https://oss.ticketmaster.com/aps/uclacto/EN/buy/details/m162830" target="_blank">Student Registration: $100</a>
 ### <a href="https://oss.ticketmaster.com/aps/uclacto/EN/buy/details/m162830" target="_blank">Pre-conference: $50</a>
    _You may register for the Pre-conference at a later time. Agenda will be announced later._

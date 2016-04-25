@@ -8,7 +8,7 @@ taxonomy:
 	  title: Director of Integrated Library Systems, University of Southern California
 	- name: Eduardo Tinoco
 	  title: Business Librarian, University of Southern California
-	- name: Micheal Habata
+	- name: MICHAEL Habata
 	  title: Librarian, Los Angeles Pierce College
 	- name: Lisa Valdez
 	  title: Librarian, Los Angeles Pierce College

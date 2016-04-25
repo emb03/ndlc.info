@@ -1,5 +1,5 @@
 ---
-title: Discerning Our Diverse Selves: Practitioner Inquiry and Cultural Humility
+title: Discerning Our Diverse Selves: Practitioner Inquiry for Library Praxis
 taxonomy:
   format: Individual Presentations
   category: session

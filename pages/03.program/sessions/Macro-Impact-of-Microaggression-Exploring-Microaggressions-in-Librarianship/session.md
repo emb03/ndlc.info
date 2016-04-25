@@ -1,7 +1,7 @@
 ---
 title: Macro Impact of Microaggression: Exploring Microaggressions in Librarianship
 taxonomy:
-  format: Panel
+  format: Roundtable
   category: session
   presenters: 
     - name: Ray Lockman

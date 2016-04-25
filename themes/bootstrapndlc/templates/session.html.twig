@@ -22,6 +22,7 @@
               {% for presenter in header.taxonomy.presenters %}
                 <li>{{ presenter.name }}, <i>{{ presenter.title }}</i></li>
               {% endfor %}
+                <li>{{ header.taxonomy.text }}</li>
             </ul>
           <li><strong>Description</strong><br />
             {{ page.content }}
