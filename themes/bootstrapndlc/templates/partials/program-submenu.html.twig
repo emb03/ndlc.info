@@ -1,6 +1,6 @@
 <div class="ribbon">
     <ul class="list-inline">
-        <a class="sub-head" <a href="{{ base_url_absolute }}/program/">LIVE TALKS</a><br />
+        <a class="sub-head" <a href="{{ base_url_absolute }}/program/">LIVE SESSIONS</a><br />
 
         {% for p in page.find('/program').children if p != page %} <li><a href="{{p.url}}/">{{ p
                 .title}}</a></li>

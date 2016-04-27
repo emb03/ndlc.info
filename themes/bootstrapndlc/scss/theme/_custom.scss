@@ -477,9 +477,47 @@ span.herotext a {
 html.js.csstransforms3d body {
   font-family: PT Sans,sans-serif;
 }
-
+/****sponsors page***/
+body.sponsors {
+  padding-bottom: 0 !important;
+}
+span.sum {
+  font-size: 18px;
+}
+.black-bg {
+  background-color: #110006;
+  margin-top: -20px;
+  padding-top: 20px;
+  padding-bottom: 20px !important;
+}
+h2.sponsor-hd-s, .sponsor-hd-s span.sum {
+  color: #C0C0C0; //sliver
+}
+h2.sponsor-hd-g, .sponsor-hd-g span.sum {
+  color: #c5b358; //gold
+}
+h2.sponsor-hd-b, .sponsor-hd-b span.sum {
+  color: #cd7f32; //bronze
+  margin: 0;
+  padding-bottom: 20px;
+}
+.row.sp-champ {
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+ul.ally {
+  list-style-type: none;
+  font-weight: 600;
+  margin-bottom: 0;
+}
 /**** MEDIA QUERIES****/
 /* Large desktop */
+/*hack to be fixed later*/
+@media (min-width: 1024px) {
+  h2.sponsor-hd-s, h2.sponsor-hd-g {
+    height: 250px;
+  }
+}
 @media (min-width: 1024px) and (max-width: 1180px) {
   .hero-unit {
     height: 360px;
@@ -513,7 +551,13 @@ html.js.csstransforms3d body {
     height: 200px;
   }
 }
-
+@media (min-width: 1220px) and (max-width: 1420px) {
+  .ribbon {
+    width: 230px;
+    margin-left: -180px;
+    height: 500px;
+  }
+}
 @media (min-width: 1420px) {
   .ribbon {
     margin-left: -230px;
@@ -633,6 +677,7 @@ html.js.csstransforms3d body {
     padding-top: 10px;
     padding-left: 34px;
   }
+
 }
 
 /* Landscape phone to portrait tablet */
