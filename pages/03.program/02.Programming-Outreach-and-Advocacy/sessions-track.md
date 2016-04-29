@@ -5,7 +5,8 @@ published: true
 onpage_menu: true
 template: sessions-track
 content:
-  items:
-    '@taxonomy.category': session
-    '@taxonomy.track': Programming, Outreach, and Advocacy
+    items:
+      '@taxonomy': {category: [session], track: [Programming, Outreach, and Advocacy]}
+      
 ---
+

@@ -25,4 +25,4 @@ If you are being harassed, notice that someone else is being harassed, if someon
 All conference participants, speakers, presenters, and vendors are subject to this code of conduct. If a participant engages in harassing behavior, event organizers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expelling the offender from the conference with no refund.
 Conference organizers will make it easy to identify conference staff, and will provide a phone number to report violations of this policy. 
 
-**The full NDLC 2016 anti-harassment policy will be posted soon.**
+**The full NDLC 2016 Code of Conduct will be posted soon.**

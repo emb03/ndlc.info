@@ -1,6 +1,7 @@
 {% extends 'partials/base.html.twig' %}
-{% set posters = page.collection({'content.items':{'@taxonomy.category': 'poster'},'order': {'by': 'default','dir':'asc'}}) %}
+{% set posters = page.collection({'content.items':{'@taxonomy.category': 'poster'},'order': {'by': 'default', 'dir':'asc'}}) %}
 {% block content %}
+
 <!-- Begin page content -->
 <!-- Small jumbotron for interior pages-->
 <div class="hero-unit-sm">

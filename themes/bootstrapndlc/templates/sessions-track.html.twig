@@ -1,6 +1,6 @@
 {% extends 'partials/base.html.twig' %}
-{% set sessions = page.collection({'content.items':{'@taxonomy.category': 'session'},'order': {'by': 'default',
-'dir':'asc'}}) %}
+{% set sessions = page.collection() %}
+{#{% set sessions = page.collection({'content.items':{'@taxonomy.category': 'session'},'order': {'by': 'default', 'dir':'asc'}}) %}#}
 {% block content %}
     <!-- Begin page content -->
     <!-- Small jumbotron for interior pages-->
@@ -24,9 +24,10 @@
                         <th width=40%>Presenters</th>
                         <th>Format</th>
                     </tr>
-                    {% for session in taxonomy.findTaxonomy({'category':'session'}) %}
-                        <tr>
-                            <td><a href="{{ base_url_absolute }}{{ session.route }}">{{ session.title }}</a></td>
+                    {#{% for session in taxonomy.findTaxonomy({'category':['session']} ) %}#}
+                    {% for session in sessions %}
+                       <tr>
+                            <td><a href="{{ base_url_absolute }}{{ session.route }}">{{ session.title }} </a></td>
                             <td>
                                 <ul>
                                     {% for presenter in session.header.taxonomy.presenters %}
