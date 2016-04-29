@@ -61,9 +61,9 @@
   font-size: 16px;
   margin-left: -10px;
 }
-.ribbon ul > li:nth-last-of-type(-n+2) {
+/*.ribbon ul > li:nth-last-of-type(-n+2) {
   display: none;
-}
+}*/
 
 /*tracks*/
 ul.sans-bullets {
@@ -149,7 +149,10 @@ ul.nav.navbar-nav {
   background: url(../assets/conference_hall_ucla.jpg) no-repeat;
   background-size: 150%;
 }
-
+.circular-housing {
+  background: url(../assets/sunset-village.png) no-repeat;
+  background-size: 150%;
+}
 .circular-registration {
   background: url(../assets/img-registration.jpg) no-repeat;
   background-size: 150%;
@@ -170,7 +173,7 @@ ul.nav.navbar-nav {
   background-size: 200%;
 }
 
-.circular-program,.circular,.circular-registration,.circular-venue,.circular-about,.circular-schedule {
+.circular-program,.circular,.circular-registration,.circular-venue,.circular-about,.circular-schedule, .circular-housing {
   width: 300px;
   height: 300px;
   border-radius: 150px;
@@ -269,8 +272,12 @@ h3 {
   background: url(../assets/pink-audience.jpg) no-repeat;
   background-size: 120%;
 }
+.circular-housing {
+  background: url(../assets/sunset-village.png) no-repeat;
+  background-size: 150%;
+}
 
-.circular-program,.circular,.circular-registration,.circular-venue,.circular-about,.circular-schedule,.circular-sess {
+.circular-program,.circular,.circular-registration,.circular-venue,.circular-about,.circular-schedule,.circular-sess, .circular-housing {
   width: 300px;
   height: 300px;
   border-radius: 150px;
@@ -405,7 +412,7 @@ span.herotext {
   font-family: sans-serif;
   font-size: 130%;
   color: #fff;
-  padding: 30px 0 10px 80px;
+  padding: 1% 0 1% 4%;
   width: 50%;
   line-height: 133%;
   background: #000;
@@ -449,7 +456,7 @@ span.herotext a {
 
 .fill {
   width: 100%;
-  height: 307px;
+  height: 325px;
   background-position: center;
   background-size: cover;
 }
@@ -509,13 +516,17 @@ ul.ally {
   list-style-type: none;
   font-weight: 600;
   margin-bottom: 0;
+  font-size: 21px;
+}
+.row.black-bg.sp-ally {
+  height: 260px;
 }
 /**** MEDIA QUERIES****/
 /* Large desktop */
-/*hack to be fixed later*/
-@media (min-width: 1024px) {
+@media (min-width: 992px) {
   h2.sponsor-hd-s, h2.sponsor-hd-g {
     height: 250px;
+    display:block;
   }
 }
 @media (min-width: 1024px) and (max-width: 1180px) {
@@ -535,7 +546,7 @@ ul.ally {
 @media (max-width: 1180px) {
   span.herotext {
     font-size: 100%;
-    padding: 10px;
+    padding: 1%;
   }
 }
 @media (max-width: 1280px) {
@@ -613,7 +624,7 @@ ul.ally {
     width: auto;
   }
 
-  .circular-program,.circular,.circular-registration,.circular-venue,.circular-about,.circular-schedule,.circular-sess {
+  .circular-program,.circular,.circular-registration,.circular-venue,.circular-about,.circular-schedule,.circular-sess, .circular-housing {
     display: none;
   }
 
@@ -674,10 +685,23 @@ ul.ally {
 
   span.herotext {
     font-size: 90%;
-    padding-top: 10px;
-    padding-left: 34px;
+    padding-top: 1%;
+    padding-left: 5%;
+  }
+}
+@media (min-width: 1025px) and (max-width: 1240px) {
+  .hero-unit {
+    height: 250px;
   }
 
+  .fill {
+  }
+
+  span.herotext {
+    font-size: 100%;
+    padding-top: 2%;
+    padding-left: 5%;
+  }
 }
 
 /* Landscape phone to portrait tablet */
@@ -692,7 +716,7 @@ ul.ally {
 
   span.herotext {
     font-size: 75%;
-    padding-left: 30px;
+    padding-left: 5%;
   }
 
   .ribbon ul.list-inline {
@@ -712,7 +736,7 @@ ul.ally {
 
   span.herotext {
     font-size: 45%;
-    padding: 10px 25px;
+    padding: 1% 16%;
     line-height: 133%;
   }
 
@@ -765,8 +789,8 @@ and (orientation : portrait) {
 
   span.herotext {
     font-size: 45%;
-    padding-left: 20px;
-    padding-top: 5px;
+    padding-left: 9%;
+    padding-top: 1%;
   }
 }
 
@@ -780,8 +804,8 @@ and (orientation : portrait) {
   }
 
   span.herotext {
-    font-size: 45%;
-    padding-left: 16px;
+    font-size: 35%;
+    padding-left: 5%;
   }
 
   h1 {
@@ -804,7 +828,7 @@ and (orientation : landscape) {
 
   span.herotext {
     font-size: 50%;
-    padding-left: 27px;
+    padding-left: 13%;
   }
 }
 
@@ -940,5 +964,42 @@ only screen and (max-width: 760px),
   }
   .col-md-7 {
     width: 100% !important;
+  }
+}
+
+@media (min-width: 1900px) and (max-width: 2481px) {
+  .hero-unit {
+    height: 400px;
+  }
+
+  .fill {
+    height: 450px;
+  }
+
+  span.herotext {
+    font-size: 200%;
+    padding-left: 5%;
+  }
+}
+
+@media (min-width: 2480px) and (max-width: 3160px) {
+  .hero-unit {
+    height: 550px;
+  }
+
+  .fill {
+    height: 600px;
+  }
+
+  span.herotext {
+    font-size: 200%;
+    padding-left: 5%;
+  }
+}
+@media (min-width: 1900px) and (max-width: 3160px) {
+
+  .hero-unit-sm {
+    height: 160px;
+    margin: -20px 0 20px;
   }
 }

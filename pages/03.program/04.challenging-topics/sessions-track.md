@@ -5,7 +5,7 @@ published: true
 onpage_menu: true
 template: sessions-track
 content:
-  items:
-    '@taxonomy.category': session
-    '@taxonomy.track': Challenging Topics
+    items:
+      '@taxonomy': {category: [session], track: [Challenging Topics]}
+        
 ---
