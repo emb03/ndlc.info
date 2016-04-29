@@ -11,7 +11,7 @@ taxonomy:
 	- name: Kathryn Blackmer Reyes
 	  title: Librarian, San Jose State University
 	- name: Richard Chabran
-	  title: Adjunct Instructor, Adjunct Instructor, California State University, Los Angeles
+	  title: Adjunct Instructor, California State University, Los Angeles
   track:
     - Collections and Access
 	
