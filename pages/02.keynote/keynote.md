@@ -14,9 +14,8 @@ markdown:
 and HoChunk) is an orator, activist, community organizer, workshop facilitator, radio host and poet. She conducts trainings nationwide for adults who work with youth, across lines of gender, race and age to stop violence. As part of these projects, Harden conducts workshops on unlearning racism, sexism and other social oppressions. Her recent activism spans a range of issues, including solidarity efforts for the Idle No More movement, the South Dakota’s Indigenous Women's Network (IWN): Lakota Traditional Birthing Project, and work with OYATE, a Native organization working to see that the lives and histories of Native peoples are portrayed honestly through books. Harden is currently a host on the weekly radio program <a href="https://kpfa.org/program/bay-native-circle/">Bay Native Circle</a> on Pacifica radio station KPFA in the San Francisco Bay Area.
 
 ### **Closing Keynote**
-<a href="http://chrisbourg.wordpress.com/about/" target="_blank">Chris Bourg</a>, Director of Libraries at Massachusetts Institute of Technology (MIT)
-
-### with <a href="http://www.inthelibrarywiththeleadpipe.org/author/april-hathcock/" target="_blank">April Hathcock</a>, Scholarly Communications Librarian, New York University
+<a href="http://chrisbourg.wordpress.com/about/" target="_blank">Chris Bourg</a>, Director of Libraries at 
+Massachusetts Institute of Technology (MIT) with <a href="http://www.inthelibrarywiththeleadpipe.org/author/april-hathcock/" target="_blank">April Hathcock</a>, Scholarly Communications Librarian, New York University
 
 ![Alt text](bourg.png "Chris Bourg, Director of Libraries, MIT") {.float_right} **Chris Bourg** is the Director of 
 Libraries at Massachusetts Institute of Technology (MIT), where she also has oversight of the MIT Press. Prior to assuming her role at MIT, Chris worked for 12 years in the Stanford University Libraries, most recently as the Associate University Librarian for Public Services. 

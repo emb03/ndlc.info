@@ -1,5 +1,6 @@
 ---
 title: "PROGRAM"
+body_class: posters
 published: true
 visible: false
 template: sessions
