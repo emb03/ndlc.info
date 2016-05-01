@@ -259,7 +259,7 @@ h3 {
 }
 
 .circular-about {
-  background: url(../assets/about.jpg) no-repeat;
+  background: url(../assets/ucla.jpg) no-repeat;
   background-size: 200%;
 }
 
@@ -494,7 +494,9 @@ span.sum {
   background-color: #110006;
   margin-top: -20px;
   padding-top: 20px;
-  padding-bottom: 20px !important;
+}
+.black-bg.sp-ally {
+  padding-bottom: 100px;
 }
 h2.sponsor-hd-s, .sponsor-hd-s span.sum {
   color: #C0C0C0; //sliver
@@ -507,25 +509,18 @@ h2.sponsor-hd-b, .sponsor-hd-b span.sum {
   margin: 0;
   padding-bottom: 20px;
 }
-.row.sp-champ {
-  padding-bottom: 40px;
-  padding-top: 20px;
-}
 ul.ally {
-  list-style-type: none;
   font-weight: 600;
-  margin-bottom: 0;
   font-size: 21px;
-}
-.row.black-bg.sp-ally {
-  height: 260px;
+  margin-bottom: 0;
+  list-style-type: none;
 }
 /**** MEDIA QUERIES****/
 /* Large desktop */
 @media (min-width: 992px) {
   h2.sponsor-hd-s, h2.sponsor-hd-g {
-    height: 250px;
     display:block;
+    height: 210px;
   }
 }
 @media (min-width: 1024px) and (max-width: 1180px) {
@@ -1014,9 +1009,22 @@ only screen and (max-width: 760px),
   }
 }
 @media (min-width: 1900px) and (max-width: 3160px) {
-
   .hero-unit-sm {
     height: 160px;
     margin: -20px 0 20px;
   }
 }
+/* Make equal height with table styles */
+/*
+
+@media (min-width: 768px) {
+  .table-row {
+    display: table;
+    table-layout: fixed;
+  }
+
+  .table-row [class^="col-"] {
+    display: table-cell;
+    float: none;
+  }
+}*/
