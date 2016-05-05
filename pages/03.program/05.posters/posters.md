@@ -8,5 +8,8 @@ content:
     items:
         '@taxonomy.category': poster
         '@page': '/program/posters'
+    order:
+        by: folder
+        dir: asc
 
 ---
