@@ -2,7 +2,7 @@
 title: "POSTERS"
 body_class: posters
 published: true
-onpage_menu: true
+visible: false
 template: posters
 content:
     items:
@@ -11,5 +11,4 @@ content:
     order:
         by: folder
         dir: asc
-
 ---
