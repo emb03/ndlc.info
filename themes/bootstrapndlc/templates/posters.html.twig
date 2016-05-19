@@ -1,5 +1,5 @@
 {% extends 'partials/base.html.twig' %}
-{% set posters = page.collection() %}
+{% set sessionsF = page.collection() %}
 {% block content %}
 
 <!-- Begin page content -->
@@ -24,7 +24,7 @@
                     <th width=40%>Presenter(s)</th>
                     <th>Track</th>
                 </tr>
-                {% for session in posters %}
+                {% for session in sessions %}
                 {#{% for session in taxonomy.findTaxonomy({'category':'poster'}) %}#}
 
                     <tr>
