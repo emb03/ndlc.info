@@ -7,13 +7,12 @@ metadata:
     author: 'UCLA Library'
 ---
 
-# Register Now!
-_(Links go to UCLA Central Ticket Office secure site)_
+We’ve had a tremendous response to this conference, and registration for the main conference is now at full capacity 
+and has been closed. (Registration for the August 10 [pre-conference](../program/pre-conference) is still open.) If you 
+would like to be added to the registration wait list (in case of cancellations), or if you are a conference presenter
+ who has not yet registered, please fill out the NDLC Waitlist form below as soon as possible. Thank you!
 
-### <a href="https://oss.ticketmaster.com/aps/uclacto/EN/buy/details/m162830" target="_blank">Registration: $225</a>
-### <a href="https://oss.ticketmaster.com/aps/uclacto/EN/buy/details/m162830" target="_blank">Student Registration: $100</a>
 ### <a href="https://oss.ticketmaster.com/aps/uclacto/EN/buy/details/m162830" target="_blank">Pre-conference: $50</a>
-   _You may register for the Pre-conference at a later time. Agenda will be announced later._
 
 **Cancellation Policy**
 
@@ -25,3 +24,4 @@ _(Links go to UCLA Central Ticket Office secure site)_
 + Lunch tickets (all you can eat, approximately $15) will be available for purchase in the dining halls for those who 
 are not staying in conference housing. (It is highly recommended that conference attendees eat in the dining halls in order not to miss any of the afternoon sessions.)
  
+<iframe src="https://docs.google.com/forms/d/1PxVV9pantFzaQW7EykzORH90THRn4mBIYYaeBm_t2zc/viewform?embedded=true#start=embed" width="760" height="760" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
