@@ -7,14 +7,15 @@ metadata:
     author: 'UCLA Library'
 ---
 
-We’ve had a tremendous response to this conference, and registration for the main conference is now at full capacity 
-and has been closed. (Registration for the August 10 [pre-conference](../program/pre-conference) is still open.) If you 
-would like to be added to the registration wait list (in case of cancellations), or if you are a conference presenter
+**We’ve had a tremendous response to this conference, and registration for the main conference is now at full capacity 
+and has been closed. (Registration for the August 10 [pre-conference](../program/pre-conference) is still open.)** If 
+you would like to be added to the registration wait list (in case of cancellations), or if you are a conference presenter
  who has not yet registered, please fill out the NDLC Waitlist form below as soon as possible. Thank you!
 
 ### <a href="https://oss.ticketmaster.com/aps/uclacto/EN/buy/details/m162830" target="_blank">Pre-conference: $50</a>
+Registrations are handled through UCLA&rsquo;s Central Ticket Office (CTO). You will need to create a CTO account as part of the registration process. <strong>You do not need to register for the NDLC in order to attend this event. </strong></p>
 
-**Cancellation Policy**
+### Cancellation Policy
 
    _All cancellations made by May 31st will receive a full refund, minus $20 processing fee. Cancellations made after
     May 31st are not eligible for a refund._
