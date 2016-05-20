@@ -32,4 +32,3 @@ Diversity in Libraries Conference (NDLC &rsquo;16)</a>. Nakamura is the Robert a
 <p>The forum content will be relevant to a broad range of professionals from all types of libraries (academic, public, special, archives) as well as museum professionals. The full agenda will be available soon.</p>
 <p><a href="https://oss.ticketmaster.com/aps/uclacto/EN/buy/details/m162830" target="_blank">Register online</a> for this one-day 
 pre-conference forum. Registrations are handled through UCLA&rsquo;s Central Ticket Office (CTO). You will need to create a CTO account as part of the registration process. <strong>You do not need to register for the NDLC in order to attend this event. </strong></p>
-<p>Support for &ldquo;Diversity and Accessibility: Designing for Innovation and Inclusion&rdquo; is provided by the Association of Research Libraries and the Claremont Colleges Library.</p>
