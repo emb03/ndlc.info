@@ -62,9 +62,9 @@
   font-size: 16px;
   margin-left: -10px;
 }
-/*.ribbon ul > li:nth-last-of-type(-n+2) {
+.ribbon ul > li:nth-last-of-type(-n+2) {
   display: none;
-}*/
+}
 
 /*tracks*/
 ul.sans-bullets {
@@ -150,10 +150,7 @@ ul.nav.navbar-nav {
   background: url(../assets/conference_hall_ucla.jpg) no-repeat;
   background-size: 150%;
 }
-.circular-housing {
-  background: url(../assets/sunset-village.png) no-repeat;
-  background-size: 150%;
-}
+
 .circular-registration {
   background: url(../assets/img-registration.jpg) no-repeat;
   background-size: 150%;
@@ -174,7 +171,7 @@ ul.nav.navbar-nav {
   background-size: 200%;
 }
 
-.circular-program,.circular,.circular-registration,.circular-venue,.circular-about,.circular-schedule, .circular-housing {
+.circular-program,.circular,.circular-registration,.circular-venue,.circular-about,.circular-schedule {
   width: 300px;
   height: 300px;
   border-radius: 150px;
@@ -260,7 +257,7 @@ h3 {
 }
 
 .circular-about {
-  background: url(../assets/ucla.jpg) no-repeat;
+  background: url(../assets/about.jpg) no-repeat;
   background-size: 200%;
 }
 
@@ -273,12 +270,8 @@ h3 {
   background: url(../assets/pink-audience.jpg) no-repeat;
   background-size: 120%;
 }
-.circular-housing {
-  background: url(../assets/sunset-village.png) no-repeat;
-  background-size: 150%;
-}
 
-.circular-program,.circular,.circular-registration,.circular-venue,.circular-about,.circular-schedule,.circular-sess, .circular-housing {
+.circular-program,.circular,.circular-registration,.circular-venue,.circular-about,.circular-schedule,.circular-sess {
   width: 300px;
   height: 300px;
   border-radius: 150px;
@@ -352,7 +345,7 @@ body {
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 60px;
-  background-color: #000;
+  background-color: #f5f5f5;
 }
 
 /* Notice Styles */
@@ -413,11 +406,11 @@ span.herotext {
   font-family: sans-serif;
   font-size: 130%;
   color: #fff;
-  padding: 1% 0 1% 4%;
+  padding: 30px 0 10px 80px;
   width: 50%;
   line-height: 133%;
- /* background: #000;
-  background: rgba(0,0,0,0.5);*/
+  background: #000;
+  background: rgba(0,0,0,0.5);
   float: left;
 }
 
@@ -430,6 +423,7 @@ span.herotext a {
   background-image: url(../assets/hero_bg.jpg);
   background-size: cover;
   background-color: #EEE;
+  height: 360px;
   margin: -20px 0 20px;
 }
 
@@ -456,7 +450,7 @@ span.herotext a {
 
 .fill {
   width: 100%;
-  height: 295px;
+  height: 307px;
   background-position: center;
   background-size: cover;
 }
@@ -495,8 +489,9 @@ span.sum {
   background-color: #a8a8a8;
   margin-top: -20px;
   padding-top: 20px;
+<<<<<<< Updated upstream
   padding-bottom: 20px !important;
-
+=======
 }
 .row.sp-champ.clearfix {
   background-color: #E0E0E0;
@@ -504,34 +499,51 @@ span.sum {
 }
 .black-bg.sp-ally {
   padding-bottom: 100px;
+>>>>>>> Stashed changes
 }
-h2.sponsor-hd-s{
-  color: #303030;
+h2.sponsor-hd-s, .sponsor-hd-s span.sum {
+  color: #303030; //sliver
 }
-h2.sponsor-hd-g {
-  color: #303030;
-  margin-bottom: -15px;
+h2.sponsor-hd-g, .sponsor-hd-g span.sum {
+  color: #303030; //gold
 }
-h2.sponsor-hd-b {
-  color: #303030;
+h2.sponsor-hd-b, .sponsor-hd-b span.sum {
+  color: #303030; //bronze
   margin: 0;
   padding-bottom: 20px;
 }
+.row.sp-champ {
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
 ul.ally {
-  font-weight: 600;
-  font-size: 21px;
-  margin-bottom: 0;
   list-style-type: none;
+  font-weight: 600;
+  margin-bottom: 0;
 }
 ul.ally li {
   text-indent: -1em;
   padding-left: 1em;
 }
-.sponsors .sp-champ .col-sm-6, .sponsors .sp-champ .col-md-2 {
-  padding-bottom: 20px;
+
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
 }
+
 /**** MEDIA QUERIES****/
 /* Large desktop */
+/*hack to be fixed later*/
+@media (min-width: 1024px) {
+  h2.sponsor-hd-s, h2.sponsor-hd-g {
+<<<<<<< Updated upstream
+    height: 250px;
+=======
+>>>>>>> Stashed changes
+  }
+}
 @media (min-width: 1024px) and (max-width: 1180px) {
   .hero-unit {
     height: 360px;
@@ -548,10 +560,11 @@ ul.ally li {
     font-size: 16px;
   }
 }
+
 @media (max-width: 1180px) {
   span.herotext {
     font-size: 100%;
-    padding: 1%;
+    padding: 10px;
   }
 }
 @media (max-width: 1280px) {
@@ -629,7 +642,7 @@ ul.ally li {
     width: auto;
   }
 
-  .circular-program,.circular,.circular-registration,.circular-venue,.circular-about,.circular-schedule,.circular-sess, .circular-housing {
+  .circular-program,.circular,.circular-registration,.circular-venue,.circular-about,.circular-schedule,.circular-sess {
     display: none;
   }
 
@@ -682,20 +695,6 @@ ul.ally li {
 /* Portrait tablet to landscape and desktop */
 @media (min-width: 768px) and (max-width: 1024px) {
   .hero-unit {
-    height: 200px;
-  }
-
-  .fill {
-  }
-
-  span.herotext {
-    font-size: 90%;
-    padding-top: 1%;
-    padding-left: 5%;
-  }
-}
-@media (min-width: 1025px) and (max-width: 1240px) {
-  .hero-unit {
     height: 250px;
   }
 
@@ -703,10 +702,11 @@ ul.ally li {
   }
 
   span.herotext {
-    font-size: 100%;
-    padding-top: 2%;
-    padding-left: 5%;
+    font-size: 90%;
+    padding-top: 10px;
+    padding-left: 34px;
   }
+
 }
 
 /* Landscape phone to portrait tablet */
@@ -721,7 +721,7 @@ ul.ally li {
 
   span.herotext {
     font-size: 75%;
-    padding-left: 5%;
+    padding-left: 30px;
   }
 
   .ribbon ul.list-inline {
@@ -741,7 +741,7 @@ ul.ally li {
 
   span.herotext {
     font-size: 45%;
-    padding: 1% 16%;
+    padding: 10px 25px;
     line-height: 133%;
   }
 
@@ -789,13 +789,13 @@ and (min-device-width : 375px)
 and (max-device-width : 667px)
 and (orientation : portrait) {
   .fill {
-    height: 122px;
+    height: 82px;
   }
 
   span.herotext {
     font-size: 45%;
-    padding-left: 5%;
-    padding-top: 1%;
+    padding-left: 20px;
+    padding-top: 5px;
   }
 }
 
@@ -809,8 +809,8 @@ and (orientation : portrait) {
   }
 
   span.herotext {
-    font-size: 35%;
-    padding-left: 5%;
+    font-size: 45%;
+    padding-left: 16px;
   }
 
   h1 {
@@ -819,9 +819,6 @@ and (orientation : portrait) {
 
   h2 {
     font-size: 16px;
-  }
-  .container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
-    margin-right: 5px;
   }
 }
 
@@ -836,7 +833,7 @@ and (orientation : landscape) {
 
   span.herotext {
     font-size: 50%;
-    padding-left: 5%;
+    padding-left: 27px;
   }
 }
 
@@ -974,68 +971,3 @@ only screen and (max-width: 760px),
     width: 100% !important;
   }
 }
-
-
-/*larger screens*/
-@media (min-width: 1560px) and (max-width: 1899px) {
-  .hero-unit {
-    height: 400px;
-  }
-
-  .fill {
-    height: 389px;
-  }
-
-  span.herotext {
-    font-size: 200%;
-    padding-left: 5%;
-  }
-}
-@media (min-width: 1900px) and (max-width: 2481px) {
-  .hero-unit {
-    height: 400px;
-  }
-
-  .fill {
-    height: 450px;
-  }
-
-  span.herotext {
-    font-size: 200%;
-    padding-left: 5%;
-  }
-}
-@media (min-width: 2480px) and (max-width: 3160px) {
-  .hero-unit {
-    height: 550px;
-  }
-
-  .fill {
-    height: 600px;
-  }
-
-  span.herotext {
-    font-size: 200%;
-    padding-left: 5%;
-  }
-}
-@media (min-width: 1900px) and (max-width: 3160px) {
-  .hero-unit-sm {
-    height: 160px;
-    margin: -20px 0 20px;
-  }
-}
-/* Make equal height with table styles */
-/*
-
-@media (min-width: 768px) {
-  .table-row {
-    display: table;
-    table-layout: fixed;
-  }
-
-  .table-row [class^="col-"] {
-    display: table-cell;
-    float: none;
-  }
-}*/
