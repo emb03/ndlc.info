@@ -544,14 +544,14 @@ ul.ally li {
   .span.herotext {
     padding-top: 10px;
   }
-  ul.ally li {
-    font-size: 16px;
-  }
 }
 @media (max-width: 1180px) {
   span.herotext {
     font-size: 100%;
     padding: 1%;
+  }
+  ul.ally li {
+    font-size: 16px;
   }
 }
 @media (max-width: 1280px) {
