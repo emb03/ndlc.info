@@ -11,8 +11,6 @@ markdown:
 
 ## [Pre-conference Program Announced&mdash;Register Now](../program/pre-conference)
 
-## [Main Conference is at capacity&mdash;Waitlist Information](../registration)
-
 ## <a href="http://www.arl.org/news/arl-news/4046" target="_blank">ARL announces travel award recipients</a>
 
 <p class="lead">The National Diversity in Libraries Conference (NDLC '16), co-sponsored by the UCLA Library and the 
