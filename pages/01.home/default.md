@@ -7,6 +7,8 @@ metadata:
 markdown:
     extra: true
 ---
+## The conference and the waitlist are at capacity.
+
 ## [Pre-conference Program Announced&mdash;Register Now](../program/pre-conference)
 
 ## [Main Conference is at capacity&mdash;Waitlist Information](../registration)
