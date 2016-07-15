@@ -11,6 +11,14 @@ metadata:
 **We’ve had a tremendous response to this conference, and registration for the main conference is now at full capacity 
 and has been closed. (Registration for the August 10 [pre-conference](../program/pre-conference) is still open.)** Thank you!
 
+### <a href="https://oss.ticketmaster.com/aps/uclacto/EN/buy/details/m162830" target="_blank">Saturday excursion to The Getty Center: $22</a>
+
+* Round trip bus, depart campus at 9:30am, return by 4:00pm.
+* <a href="http://www.getty.edu/research/exhibitions_events/exhibitions/cave_temples_dunhuang/index.html 
+"taregt="_blank">Timed ticket to special exhibit</a>
+* Lunch not included. Options include the Getty Center Cafe.
+* Limited to 47 people; first come, first served.
+    
 ### <a href="https://oss.ticketmaster.com/aps/uclacto/EN/buy/details/m162830" target="_blank">Pre-conference: $50</a>
 Registrations are handled through UCLA&rsquo;s Central Ticket Office (CTO). You will need to create a CTO account as part of the registration process. <strong>You do not need to register for the NDLC in order to attend this event. </strong></p>
 
