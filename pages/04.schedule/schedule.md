@@ -10,7 +10,8 @@ markdown:
   extra: true
 visible: true
 ---
-# Schedule
+# Schedule 
+### [Schedule at a Glance](at-a-glance)
 Keynote sessions will take place in the De Neve Plaza Auditorium. Regular program and poster sessions will take place at Carnesale Commons. The pre-conference will be held at the Charles E. Young Research Library.
 
 <a id="sched-embed" href="http://ndlc16.sched.org/">View the NDLC 16 schedule & directory.</a><script type="text/javascript" src="http://ndlc16.sched.org/js/embed.js"></script>

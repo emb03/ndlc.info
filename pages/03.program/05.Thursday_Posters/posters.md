@@ -1,5 +1,5 @@
 ---
-title: "THURSDAY POSTERS"
+title: "POSTER SESSION I"
 body_class: posters
 published: true
 visible: false
