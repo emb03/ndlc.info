@@ -126,6 +126,3 @@ visible: true
                 </tr>
             </tbody>
         </table>
-        </div>
-        </html>
-        </body>
