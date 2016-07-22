@@ -7,7 +7,7 @@ metadata:
 markdown:
     extra: true
 ---
-## [Special Town Hall on Black Lives Matters Added](../program/sessions/Caught-in-the-Crossfire-A-Conversation-on-Libraries-and-Communities-in-Distress)
+## [Special Town Hall on Black Lives Matter Added](../program/sessions/Caught-in-the-Crossfire-A-Conversation-on-Libraries-and-Communities-in-Distress)
 
 ## The conference and the waitlist are at capacity.
 
