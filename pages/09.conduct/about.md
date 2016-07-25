@@ -49,7 +49,8 @@ Some discussion related to sensitive issues may be appropriate given the topic o
 Photography Policy
 </h2>
 <p>
-The word photo below means any photographed likeness of an individual, including, but not limited to, photos and videos.
+The word <em>photo</em> below means any photographed likeness of an individual, including, but not limited to, photos 
+and videos.
 </p>
 <p>
 Three colors of badge holders are provided to conference participants. Blue means it is okay for photographers to take pictures of you. Yellow means photographers should ask permission. Red means photos are not okay. All attendees, organizers, volunteers, sponsors, and speakers will have these badge holders available to them. If no badge holder is visible, yellow will be assumed.
@@ -172,7 +173,7 @@ Taxi Services
 Beverly Hills Cab Company: 800-273-6611 &#8226; L.A. Yellow Cab: 424-222-2222
 </p>
 <p>
-This policy can be found online at <a href="http://ndlc.info/Conduct">http://ndlc.info/Conduct</a>.
+This policy can be found online at <a href="http://ndlc.info/conduct">http://ndlc.info/conduct</a>.
 </p>
 <p>
 <em>This anti-harassment policy is based on the example policy from the </em><a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment" target="_blank"><em>Geek Feminism wiki</em></a><em>, created by the Ada Initiative and other volunteers.</em>
