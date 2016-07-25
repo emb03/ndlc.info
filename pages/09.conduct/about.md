@@ -7,6 +7,10 @@ metadata:
     author: 'UCLA Library'
 visible: true
 template: about
+routes:
+  canonical: '/canonical/url/alias'
+  aliases:
+    - '/Conduct'
 ---
 # Code of Conduct
 
