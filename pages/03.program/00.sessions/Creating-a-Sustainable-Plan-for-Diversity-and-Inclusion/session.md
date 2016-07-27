@@ -1,5 +1,5 @@
 ---
-title: Creating a Sustainable Plan for Diversity and Inclusion: From Awareness to Action
+title: Creating a Sustainable Plan for Diversity and Inclusion
 taxonomy:
   format: Panel
   category: session
