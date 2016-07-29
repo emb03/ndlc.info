@@ -13,7 +13,7 @@ visible: true
 participate in the NDLC pre-conference event. We are pleased to announce that Mark Riccobono, president of the National Federation for the 
 Blind, will be giving our closing keynote address.</p>
 ## Keynote Speaker
-
+<p>Information about Mark Riccobono will be posted soon.</p>
 ## Concurrent Workshops
 <p>The schedule for the pre-conference forum will include several concurrent workshops on the following topics:</p>
 <ul>
