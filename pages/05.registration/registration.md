@@ -24,8 +24,8 @@ now at full capacity and has been closed.**
 * Maximum 2 tickets per order.
 * Contact: <a href="mailto:ndlc@library.ucla.edu">ndlc@library.ucla.edu</a>
     
-### <a href="https://oss.ticketmaster.com/aps/uclacto/EN/buy/details/m162830" target="_blank">Pre-conference: $50</a>
-Registrations are handled through UCLA&rsquo;s Central Ticket Office (CTO). You will need to create a CTO account as part of the registration process. <strong>You do not need to register for the NDLC in order to attend this event. </strong></p>
+### Pre-conference
+Pre-conference registration is closed.
 
 ### Cancellation Policy
 
