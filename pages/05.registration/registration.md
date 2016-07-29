@@ -8,8 +8,8 @@ metadata:
 ---
 ### The conference and the waitlist are at capacity.
 
-**We’ve had a tremendous response to this conference, and registration for the main conference is now at full capacity 
-and has been closed. (Registration for the August 10 [pre-conference](../program/pre-conference) is still open.)** Thank you!
+**We’ve had a tremendous response to this conference, and registration for the main conference and pre-conference is 
+now at full capacity and has been closed.**
 
 ### Saturday excursion to The Getty Center: $22
 *NDLC 2016* is pleased to offer an excursion to the J. Paul Getty Museum, known for its collection and conservation of
