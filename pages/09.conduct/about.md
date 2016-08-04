@@ -13,7 +13,7 @@ routes:
     - '/Conduct'
 ---
 # Code of Conduct
-
+### If you experience or observe behavior not in accordance with the Code of Conduct, you can report it [here](support).
 <p>
 NDLC 2016 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, 
 gender identity and expression, age, sexual	orientation, disability, physical appearance, body size, race, ethnicity,
